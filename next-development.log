@@ -1,0 +1,46 @@
+[00:00:05.612] Server  LOG     
+[00:00:05.613] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:05.614] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:05.615] Server  LOG        	- include was updated to add '.next\dev/types/**/*.ts'
+[00:00:05.616] Server  LOG        	- include was updated to add '.next\dev/types/**/*.ts'
+[00:00:05.616] Server  LOG     
+[00:00:06.156] Server  LOG      ✓ Ready in 5s
+[00:00:48.786] Server  LOG      ○ Compiling / ...
+[00:01:03.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:06.112] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/600/600" "received" null
+[00:01:06.117] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:01:06.122] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:01:06.125] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/200/200" "received" null
+[00:01:06.151] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:25:52.382] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/600/600" "received" null
+[00:25:52.830] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:25:52.833] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:25:52.837] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/200/200" "received" null
+[00:25:52.839] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:25:53.576] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:53.839] Browser WARN    Image with src "/api/placeholder/50/50" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:43.703] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:26:43.709] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:07.766] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:27:07.770] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:12.525] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/600/600" "received" null
+[00:27:13.109] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:27:13.113] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:13.120] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/200/200" "received" null
+[00:27:13.123] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:19.628] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/600/600" "received" null
+[00:27:19.638] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:27:19.833] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/600/600" "received" null
+[00:27:20.091] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/300/300" "received" null
+[00:27:20.320] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:20.352] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/200/200" "received" null
+[00:27:20.427] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:20.635] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:20.921] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/200/200" "received" null
+[00:27:20.924] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/api/placeholder/50/50" "received" null
+[00:27:21.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:22.180] Browser WARN    Image with src "/api/placeholder/50/50" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:27:28.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:32.853] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:33.108] Browser WARN    Image with src "/api/placeholder/50/50" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
